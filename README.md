@@ -1,2 +1,7 @@
-# bluetooth-arduino-robot
-Uses mobile bluetooth App to control the robot movements. And return distance information from ultra-sonic sensor.
+# Bluetooth controlled Arduino Robot
+1 x Chassis
+1 x Ultrasonic sensor
+1 x Arduino Uno r3
+2 x Gear Box
+
+Result:
