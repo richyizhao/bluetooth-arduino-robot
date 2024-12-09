@@ -6,7 +6,8 @@
 - 2 x Gear Box
 - 1 x Chassis
 
-Preview
-
+# Side view
 <img src="asset/side-view.jpg" alt="side-view-shot" width="600">
+
+# Top view
 <img src="asset/top-view.jpg" alt="top-view-shot" width="600">
